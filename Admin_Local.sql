@@ -1,0 +1,1 @@
+ALTER USER jdrefrigeracion IDENTIFIED BY 123456;
